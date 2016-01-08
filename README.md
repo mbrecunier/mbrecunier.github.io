@@ -19,6 +19,8 @@ No known bugs.
 
 ## Support and contact details
 
+[GitHub Pages](http://mbrecunier.github.io/)
+
 michelle.brecunier@gmail.com
 
 ## Technologies Used
