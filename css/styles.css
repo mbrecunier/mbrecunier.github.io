@@ -3,8 +3,9 @@ body {
 }
 
 .jumbotron {
-  background-color: #AB8D8D;
+  background-color: #DADADA;
   color: #3E3C3C;
+  border: solid #BDBDBD 2px;
 }
 
 .jumbotron h1 {
